@@ -1,0 +1,11 @@
+# تكوين موقع تعليم الروسية
+title: "تعلم الروسية للمبتدئين"
+description: "موقع تفاعلي لتعليم اللغة الروسية بالعربية مع 500 كلمة ونطق صوتي"
+theme: null
+lsi: false
+safe: true
+source: .
+incremental: false
+highlighter: rouge
+gist:
+  noscript: false
